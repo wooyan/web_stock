@@ -1,0 +1,21 @@
+{
+  // このサイトで使う固有名詞をスペルチェッカーに教えておく。
+  // 花の学名・和名のローマ字・フォント名・CSS のキーワードなど。
+  "cSpell.words": [
+    "akari",
+    "asaichi",
+    "Eustoma",
+    "Gentiana",
+    "grandiflorum",
+    "hakuro",
+    "hana",
+    "hupehensis",
+    "Kaku",
+    "lede",
+    "nishiogi",
+    "nums",
+    "scabra",
+    "Shippori",
+    "teiki"
+  ]
+}
